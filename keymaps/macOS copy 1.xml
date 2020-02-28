@@ -1,0 +1,10 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="CloseContent" />
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
