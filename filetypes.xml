@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="docker" type="Dockerfile" />
+      <mapping pattern="keys" type="PLAIN_TEXT" />
+      <mapping pattern="jk-pipeline-policy" type="PLAIN_TEXT" />
+      <mapping pattern="instances" type="PLAIN_TEXT" />
+      <mapping pattern="circle_test" type="PLAIN_TEXT" />
+      <mapping ext="0_x4" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
