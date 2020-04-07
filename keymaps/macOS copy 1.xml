@@ -15,9 +15,6 @@
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
   <action id="FileChooser.GotoDesktop" />
-  <action id="Git.Log">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
