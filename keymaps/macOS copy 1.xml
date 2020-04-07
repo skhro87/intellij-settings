@@ -8,7 +8,6 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="DatabaseView.CopyAction" />
-  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord">
