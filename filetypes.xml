@@ -7,9 +7,9 @@
       <mapping pattern="seb" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="xd" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping pattern="json_log" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
