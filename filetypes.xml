@@ -11,6 +11,7 @@
       <mapping pattern="xd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping pattern="json_log" type="PLAIN_TEXT" />
+      <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
