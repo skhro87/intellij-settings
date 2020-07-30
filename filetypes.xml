@@ -2,20 +2,20 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="docker" type="Dockerfile" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="json_log" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="xd" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping pattern="seb" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="xd" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
-      <mapping pattern="json_log" type="PLAIN_TEXT" />
-      <mapping ext="drawio" type="PLAIN_TEXT" />
-      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="drawio" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
