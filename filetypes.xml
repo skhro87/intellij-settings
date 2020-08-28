@@ -9,6 +9,7 @@
       <mapping pattern="xd" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-test" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".docker.env" type="PLAIN_TEXT" />
       <mapping pattern="seb" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
