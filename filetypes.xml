@@ -13,8 +13,10 @@
       <mapping pattern="seb" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="Departments," type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-web" type="PLAIN_TEXT" />
       <mapping pattern="AppComponent" type="PLAIN_TEXT" />
+      <mapping pattern="replace" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="drawio" type="PLAIN_TEXT" />
