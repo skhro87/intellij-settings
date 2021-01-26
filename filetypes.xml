@@ -21,6 +21,7 @@
       <mapping pattern="replace" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
