@@ -29,6 +29,7 @@
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="ca-bundle" type="PLAIN_TEXT" />
+      <mapping ext="lftp" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
