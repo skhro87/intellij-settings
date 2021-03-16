@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="SetupTests" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="Dockerfile7" type="PLAIN_TEXT" />
@@ -17,8 +16,8 @@
       <mapping pattern="seb" type="PLAIN_TEXT" />
       <mapping pattern="list" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Departments," type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-web" type="PLAIN_TEXT" />
+      <mapping pattern="Departments," type="PLAIN_TEXT" />
       <mapping pattern="AppComponent" type="PLAIN_TEXT" />
       <mapping pattern="replace" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
