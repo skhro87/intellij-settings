@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="SetupTests" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
