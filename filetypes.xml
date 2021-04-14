@@ -22,13 +22,13 @@
       <mapping pattern="replace" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="p7 " type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="pfx" type="PLAIN_TEXT" />
       <mapping ext="drawio" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="cer" type="PLAIN_TEXT" />
-      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping ext="ca-bundle" type="PLAIN_TEXT" />
       <mapping ext="lftp" type="Shell Script" />
