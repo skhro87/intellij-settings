@@ -8,4 +8,11 @@
     <entry key="eslint.additional.file.extensions" value="svelte" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
