@@ -24,6 +24,7 @@
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="p7 " type="PLAIN_TEXT" />
+      <mapping ext="ipynb" type="PLAIN_TEXT" />
       <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="pfx" type="PLAIN_TEXT" />
