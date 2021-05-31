@@ -21,6 +21,7 @@
       <mapping pattern="Departments," type="PLAIN_TEXT" />
       <mapping pattern="AppComponent" type="PLAIN_TEXT" />
       <mapping pattern="replace" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="bak" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
       <mapping ext="p7 " type="PLAIN_TEXT" />
